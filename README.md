@@ -1,6 +1,6 @@
 # go-taskqueue
 
-FIFO 任务队列。JSON 持久化，支持 push/pop/done/fail 状态流转。
+想临时起个服务、查个 IP、探个端口，还要装一堆东西？没必要。
 
 ## 用法
 
